@@ -40,7 +40,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Hello"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "Thoughts and glimpses on art."
