@@ -41,7 +41,7 @@ author = "Themefisher"
 description = "This is meta description"
 [params.banner]
 heading = "Hello"
-image = "images/2020-landscape-1-2.png"
+image = ""
 [params.blog]
 heading = "Thoughts and stories about art."
 [params.call_to_action]
@@ -58,6 +58,8 @@ hours = ""
 title = "Gouache"
 [params.gallery]
 enable = true
+[[params.gallery.gallery_item]]
+image = ""
 [[params.gallery.gallery_item]]
 image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
