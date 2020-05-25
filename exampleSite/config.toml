@@ -58,8 +58,7 @@ hours = ""
 title = "Gouache"
 [params.gallery]
 enable = true
-[[params.gallery.gallery_item]]
-image = ""
+gallery_item = []
 [params.social]
 email = "#"
 facebook = "#"
