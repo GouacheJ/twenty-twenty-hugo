@@ -1,7 +1,7 @@
 ---
 title: 'Serge Lutens - A Life''s Work '
 date: 2020-03-14T09:40:24+00:00
-image: anthony-delanoix-__tfy6ue-l8-unsplash.jpg
+image: "/images/anthony-delanoix-__tfy6ue-l8-unsplash.jpg"
 author:
 - Admin
 categories:
