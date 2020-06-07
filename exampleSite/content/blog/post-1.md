@@ -4,11 +4,8 @@ date: 2020-03-14T09:40:24.000+00:00
 image: leonard-cotte-r5scocnoodm-unsplash.jpg
 author:
 - Admin
-categories:
-- Working days
-tags:
-- work
-- day
+categories: []
+tags: []
 description: Feature for 125 Magazine - May 2012
 
 ---
