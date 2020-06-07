@@ -58,7 +58,10 @@ hours = ""
 title = "Gouache"
 [params.gallery]
 enable = true
-gallery_item = []
+[[params.gallery.gallery_item]]
+image = "125-time-sergelutens.pdf"
+[[params.gallery.gallery_item]]
+image = ""
 [params.social]
 email = "#"
 facebook = "#"
