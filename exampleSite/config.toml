@@ -68,4 +68,4 @@ yelp = "#"
 [taxonomies]
 author = "author"
 category = []
-tag = "tags"
+tag = []
