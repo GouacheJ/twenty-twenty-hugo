@@ -1,7 +1,7 @@
 ---
 title: Helmut Newton retrospective – Grand Palais, Paris – 24 March – 17 June 2012
 date: 2020-03-14T09:40:24.000+00:00
-image: leonard-cotte-r5scocnoodm-unsplash.jpg
+image: "/images/leonard-cotte-r5scocnoodm-unsplash.jpg"
 author:
 - Admin
 categories: []
