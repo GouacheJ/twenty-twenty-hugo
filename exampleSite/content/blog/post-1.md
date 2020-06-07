@@ -9,7 +9,7 @@ tags: []
 description: Feature for 125 Magazine - May 2012
 
 ---
-Berlin-born fashion photographer Helmut Newton is famed for his unequaled way of illuminating the female body. As many artists and photographers did, Newton chose to settle in Paris for several years in the sixties and produced some of his most acclaimed photography there. The first restropective in France of his work since his death in 2004 opened at the Grand Palais, Paris on 24 March.
+Berlin-born fashion photographer Helmut Newton is famed for his unequaled way of illuminating the female body. As many artists and photographers did, Newton chose to settle in Paris for several years in the sixties and produced some of his most acclaimed photography there. The first restropective in France of his work since his death in 2004 opened at the Grand Palais, Paris on 24 March. 
 
 The monumental exhibition was curated by the Réunion des Musées Nationaux and Newton's wife, Australian actress and photographer June Newton (also known as June Brunell or Alice Springs). It features over two-hundred photographs, mainly prints and polaroids.
 
