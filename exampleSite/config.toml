@@ -67,5 +67,5 @@ twitter = "#"
 yelp = "#"
 [taxonomies]
 author = "author"
-category = "categories"
+category = []
 tag = "tags"
