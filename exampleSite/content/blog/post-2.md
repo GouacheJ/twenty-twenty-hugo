@@ -1,6 +1,6 @@
 ---
 title: 'Serge Lutens - A Life''s Work '
-date: 2020-03-14T09:40:24.000+00:00
+date: 2020-03-14T09:40:24+00:00
 image: images/2020-three-quarters-3.png
 author:
 - Admin
@@ -8,8 +8,7 @@ categories:
 - art
 tage:
 - tags
-description: 'When I am creating, to a certain extent I am a woman. The woman I am
-  creating for is in me. '
+description: Interview for 125 Magazine - September 2012
 
 ---
 On a rainy August afternoon, I receive a call from the other side of the Mediterranean. Speaking from the intense heat of Marrakesh, Serge Lutens is soft and placid, smooth-spoken. The eloquence of his voice is tranquilising, a pleasure to the ear. There is so much of his impressive career I want to discuss with him; thankfully he is loquacious, so I listen happily to the stream of his beautiful French.
