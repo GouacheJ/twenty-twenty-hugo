@@ -51,7 +51,7 @@ content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean comm
 enable = false
 title = "Contact us for more information."
 [params.footer]
-address = ""
+address = "Paris - London"
 content = "Thoughts and stories about art."
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 hours = ""
