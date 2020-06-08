@@ -41,7 +41,7 @@ author = "Themefisher"
 description = "This is meta description"
 [params.banner]
 heading = "Hello "
-image = "/images/francois-dallay-vclomponrc8-unsplash.jpg"
+image = ""
 [params.blog]
 heading = "Thoughts and stories about art."
 [params.call_to_action]
