@@ -1,4 +1,4 @@
-baseURL = "https://www.gouache.co"
+baseURL = "https://gouache.co"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = "UA-123-45"
