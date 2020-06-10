@@ -30,10 +30,6 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 4
-[[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -57,7 +53,7 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 hours = ""
 title = "Gouache"
 [params.gallery]
-enable = true
+enable = false
 gallery_item = []
 [params.social]
 email = "#"
